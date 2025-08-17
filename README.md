@@ -21,7 +21,6 @@ Um jogo simples em **JavaScript, HTML e CSS** onde o jogador precisa adivinhar o
 
 ---
 
-## 📂 Como executar localmente
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/pablofranca-tech/jogoDoNumeroSecreto.git
+## 🌐 Site publicado
+
+Acesse o jogo online: [Jogo do Número Secreto](https://pablofranca-tech.github.io/jogoDoNumeroSecreto/)
